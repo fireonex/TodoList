@@ -12,3 +12,19 @@
   padding: 10px;
   border-radius: 10px;
 }
+
+.task-done {
+  opacity: 0.5;
+}
+
+.task {
+  font-weight: bolder;
+}
+
+.btn-active {
+  background-color: rgba(141, 178, 243, 0.84);
+}
+
+.input-error {
+  border: 2px solid red;
+}
